@@ -1,4 +1,4 @@
-Replicates the design and features of the K72 site.
+<h1>Replicates the design and features of the K72 site.</h1>
 
 Built with JavaScript, HTML, CSS, and uses Vite as the build tool.
 Project structure includes:
