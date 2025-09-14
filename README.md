@@ -2,6 +2,11 @@
 
 Built with JavaScript, HTML, CSS, and uses Vite as the build tool.
 Project structure includes:
-. src/ for source code
-. public/ for static assets
-. Configuration files like vite.config.js, ESLint setup, etc.
+<ul>
+  <li>src/ for source code</li>
+  <li>public/ for static assets</li>
+  <li>Configuration files like vite.config.js, ESLint setup, etc.
+</li>
+</ul>
+
+
